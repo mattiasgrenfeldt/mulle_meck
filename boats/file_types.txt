@@ -1,0 +1,390 @@
+./Autoplay.exe:        PE32 executable (GUI) Intel 80386, for MS Windows
+./Autorun.inf:         Microsoft Windows Autorun file
+./data1.cab:           InstallShield CAB
+./Data/data.cst:       data
+./Data/.DS_Store:      Apple Desktop Services Store
+./DATA.TAG:            ISO-8859 text, with CRLF line terminators
+./DirectX/dx6swe.exe:  PE32 executable (GUI) Intel 80386 (stripped to external PDB), for MS Windows, MS CAB-Installer self-extracting archive
+./_INST32I.EX_:        data
+./_ISDEL.EXE:          MS-DOS executable, NE for MS Windows 3.x (EXE)
+./lang.dat:            Generic INItialization configuration [0x0409]\015
+./layout.bin:          data
+./Movies/00.cxt:       data
+./Movies/01.dxr:       data
+./Movies/02.dxr:       data
+./Movies/03.dxr:       data
+./Movies/04.dxr:       data
+./Movies/05.dxr:       data
+./Movies/06.dxr:       data
+./Movies/08.dxr:       data
+./Movies/10.dxr:       data
+./Movies/11.dxr:       data
+./Movies/12m001v0.smk: RAD Game Tools Smacker Multimedia version 2, 640 x 480, 1393 frames
+./Movies/13.dxr:       data
+./Movies/14.dxr:       data
+./Movies/15.dxr:       data
+./Movies/70.dxr:       data
+./Movies/71.dxr:       data
+./Movies/76.dxr:       data
+./Movies/77.dxr:       data
+./Movies/78.dxr:       data
+./Movies/79.dxr:       data
+./Movies/80.dxr:       data
+./Movies/81.dxr:       data
+./Movies/83.dxr:       data
+./Movies/84.dxr:       data
+./Movies/85.dxr:       DIY-Thermocam raw data (Lepton 3.x), scale 300-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 0.000000, slope 36893488147419103232.000000
+./Movies/86.dxr:       data
+./Movies/87.dxr:       data
+./Movies/88.dxr:       data
+./Movies/BLS.cxt:      RIFF (big-endian) data
+./Movies/BLW.cxt:      RIFF (big-endian) data
+./Movies/BMS.cxt:      RIFF (big-endian) data
+./Movies/BMW.cxt:      RIFF (big-endian) data
+./Movies/BSS.cxt:      RIFF (big-endian) data
+./Movies/BSW.cxt:      RIFF (big-endian) data
+./Movies/CDdata.cxt:   data
+./Movies/.DS_Store:    Apple Desktop Services Store
+./Movies/LBdemo.dxr:   data
+./Movies/LBdlgweb.dxr: Apple DiskCopy 4.2 image FIRX=\001, 939524096 bytes, 0xffffffff tag size, 0x58 encoding, 0x3d format
+./Movies/LBprofil.cxt: data
+./Movies/LBProfil.dxr: data
+./Movies/LBstart.dxr:  RIFF (big-endian) data
+./Movies/LBtrail.dxr:  data
+./Movies/LBwebInf.dxr: data
+./Movies/LBwebOK.dxr:  data
+./Movies/Sail.cxt:     RIFF (big-endian) data
+./Movies/showboat.dxr: RIFF (big-endian) data
+./Movies/tempPlug.cxt: data
+./Mullebat.exe:        PE32 executable (GUI) Intel 80386, for MS Windows
+./MULLEBAT.HLP:        MS Windows 3.1 help, Tue Dec 15 19:47:14 1998, 54546 bytes
+./mullebat.ico:        MS Windows icon resource - 2 icons, 16x16, 16 colors, 32x32, 16 colors
+./mulleCD.ico:         MS Windows icon resource - 2 icons, 16x16, 16 colors, 32x32, 16 colors
+./os.dat:              Generic INItialization configuration [0x0009]\015
+./Setup.bmp:           PC bitmap, Windows 3.x format, 300 x 200 x 8, resolution 2834 x 2834 px/m, cbSize 61080, bits offset 1078
+./_setup.dll:          MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./SETUP.EXE:           MS-DOS executable, NE for MS Windows 3.x (EXE)
+./SETUP.INI:           ASCII text, with CRLF line terminators
+./setup.ins:           COM executable for DOS
+./setup.lid:           ASCII text, with CRLF line terminators
+./SOUND/00d039v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d041v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d042v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d043v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d044v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d045v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d046v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d048v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d049v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d050v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d051v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d053v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d054v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d055v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d056v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d057v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d058v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d059v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d060v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d061v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d062v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d063v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d064v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d066v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d067v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d069v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d071v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d072v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d073v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d074v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d075v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d076v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d077v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d078v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d079v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d080v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d081v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d082v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d083v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d084v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00d085v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/00e101v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05d001v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d002v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d003v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d004v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d005v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d006v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d007v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d008v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d009v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d010v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d011v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d012v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d013v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d014v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d015v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d016v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d017v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d018v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d019v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d020v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d021v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d022v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d023v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d024v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D025V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d026v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d027v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d028v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d029v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d030v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d031v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d032v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d033v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d034v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d035v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d036v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d038v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d039v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d040v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d041v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d042v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d043v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d044v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d045v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d046v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d047v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d048v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d049v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d050v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D051V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d052v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d053v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d054v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d055v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d056v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d057v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d060v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d061v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d062v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d063v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d064v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d065v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d066v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d067v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d068v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d069v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d070v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d071v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d072v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d073v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d074v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d075v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d076v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d077v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d078v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d079v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d080v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d081v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d082v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d083v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d084v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d085v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d086v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d087v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d088v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D089V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D090V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D091V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D092V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D093V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D094V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D095V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D096V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D097V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D098V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D099V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D100V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D101V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D102V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D103V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D104V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D105V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D106V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D107V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D108V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D109V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D110V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D111V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D112V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D114V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D115V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D116V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05D117V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d118v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d119v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d120v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d121v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d122v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d123v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d125v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d126v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d127v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d128v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d129v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d130v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d131v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d132v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d133v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d134v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d135v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d136v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05d137v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e002v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E002V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E002V2.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e005v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E005V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e006v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E006V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e007v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E007V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e008v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E008V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e011v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E011V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E016V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e016v1.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E018V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E018V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E019V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E019V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E020V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E021V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e022v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E023V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E024V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E026V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e027v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 44100 Hz
+./SOUND/05e030v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E030V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, stereo 22050 Hz
+./SOUND/05E031V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E032V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e032v1.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e033v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e034v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e035v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E037V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E038V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E039V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e043v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05E044V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e044v1.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E045V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E045V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E045V3.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E047V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E047V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E047V2.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E051V0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E051V1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E051V2.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05E051V3.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/05e052v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e053v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e054v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e055v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e056v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e057v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e058v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e059v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/05e060v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d001v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d002v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d003v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d004v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d005v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d006v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d058v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d059v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d060v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d061v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d062v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d063v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/09d064v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d001v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d002v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d003v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d004v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d005v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d006v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d007v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d008v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d009v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d010v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d011v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d012v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d013v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d014v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d015v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/19d016v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d001v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d002v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d003v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d004v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d005v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d006v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d007v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d008v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d009v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d010v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d011v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d012v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31d013v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/31e001v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d001v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d002v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d003v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d004v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d005v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d006v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d007v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d008v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d009v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d010v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d012v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d013v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/50d014v0.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 16 bit, mono 22050 Hz
+./SOUND/82d004v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/82d005v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/82d006v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/82d007v0.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/OneWave2.wav:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/ONEWAVES.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/OneWave.wav:   RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/Sail1.wav:     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/Sail2.wav:     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/Sail3.wav:     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/SAILING1.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/SAILING2.WAV:  RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/vatten.wav:    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/WAVEL2.WAV:    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/WAVEL.WAV:     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/WAVEM2.WAV:    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/WAVEM.WAV:     RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./SOUND/WaveSm.wav:    RIFF (little-endian) data, WAVE audio, Microsoft PCM, 8 bit, mono 22050 Hz
+./_sys1.cab:           InstallShield CAB
+./_user1.cab:          InstallShield CAB
+./Viktigt.txt:         ISO-8859 text, with CRLF line terminators
+./Xtras/DSOUND_R.X32:  PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./Xtras/FILEIO.X32:    PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./Xtras/INETURL.X16:   MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./Xtras/INETURL.X32:   PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./Xtras/KEYPOLL.X32:   PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./Xtras/NETFILE.X16:   MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./Xtras/NETFILE.X32:   PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./Xtras/NETLINGO.X16:  MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./Xtras/NETLINGO.X32:  PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./Xtras/PMatic.x32:    PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./Xtras/SMACKX32.X32:  PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
