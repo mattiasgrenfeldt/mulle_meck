@@ -1,0 +1,54 @@
+./autorun.inf:         Microsoft Windows Autorun file
+./data/data.cst:       data
+./data/fileio.x32:     PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./data/fileio16.x16:   MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./data/mulle.ico:      MS Windows icon resource - 1 icon, 32x32, 16 colors
+./data/mulle16.exe:    MS-DOS executable, NE for MS Windows 3.x (EXE)
+./data/mulle32.exe:    PE32 executable (GUI) Intel 80386, for MS Windows
+./data/mullehem.htm:   HTML document, ASCII text, with CRLF line terminators
+./data/online.htm:     HTML document, ASCII text, with CRLF line terminators
+./movies/00.cxt:       DIY-Thermocam raw data (Lepton 2.x), scale -24827-0, spot sensor temperature 0.000000, unit celsius, color scheme 0, calibration: offset 131072.000000, slope 17962053171013056724992.000000
+./movies/02.dxr:       RIFF (big-endian) data
+./movies/03.dxr:       data
+./movies/04.dxr:       RIFF (big-endian) data
+./movies/05.dxr:       data
+./movies/06.dxr:       data
+./movies/08.dxr:       data
+./movies/10.dxr:       data
+./movies/12.dxr:       data
+./movies/13.dxr:       data
+./movies/18.dxr:       data
+./movies/82.dxr:       data
+./movies/83.dxr:       data
+./movies/84.dxr:       data
+./movies/85.dxr:       data
+./movies/86.dxr:       data
+./movies/87.dxr:       data
+./movies/88.dxr:       data
+./movies/89.dxr:       data
+./movies/90.dxr:       data
+./movies/91.dxr:       data
+./movies/92.dxr:       data
+./movies/93.dxr:       data
+./movies/94.dxr:       data
+./movies/cddata.cxt:   data
+./movies/lbstart.dxr:  RIFF (big-endian) data
+./movies/tempplug.cxt: data
+./movies/unload.dxr:   RIFF (big-endian) data
+./mullebil.hlp:        MS Windows 3.1 help, Mon Nov  3 10:10:56 1997, 50629 bytes
+./setup.bmp:           PC bitmap, Windows 3.x format, 337 x 200 x 8, resolution 2834 x 2834 px/m, cbSize 69080, bits offset 1078
+./setup.dbg:           data
+./setup.exe:           MS-DOS executable, NE for MS Windows 3.x (EXE)
+./setup.ini:           ASCII text, with CRLF line terminators
+./setup.ins:           COM executable for DOS
+./xtras/keypoll.x16:   MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./xtras/keypoll.x32:   PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./xtras/pmatic.x16:    MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./xtras/pmatic.x32:    PE32 executable (DLL) (GUI) Intel 80386, for MS Windows
+./_inst16.ex_:         data
+./_inst32i.ex_:        data
+./_isdel.exe:          MS-DOS executable, NE for MS Windows 3.x (EXE)
+./_isres.dll:          MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./_setup.dll:          MS-DOS executable, NE for MS Windows 3.x (DLL or font)
+./_setup.lib:          InstallShield Z archive Data
+./_setup32.lib:        InstallShield Z archive Data
